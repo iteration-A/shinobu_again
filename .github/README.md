@@ -6,6 +6,8 @@
 > won't break every 3 days. I now use NvChad. This repo just houses my custom
 > configuration for NvChad and some other dotfiles I still use in my setup :)
 
+> Nov. 2022 Update: Went back to my custom config. 😑👍
+
 <img width="1920" target="_blank" alt="shinobu showcase" src="https://raw.githubusercontent.com/iteration-A/shinobu_again/master/.github/previews/shinobu.png">
 <img width="1920" target="_blank" alt="telescope" src="https://raw.githubusercontent.com/iteration-A/shinobu_again/master/.github/previews/telescope.png">
 <img width="1920" target="_blank" alt="code" src="https://raw.githubusercontent.com/iteration-A/shinobu_again/master/.github/previews/code.png">
